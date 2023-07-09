@@ -8,7 +8,6 @@ public class Sock {
     private final Size size;
     private final int cottonPerсentage;
 
-
     public Sock(Color color, Size size, int cottonPerсentage) {
         this.color = color;
         this.size = size;
